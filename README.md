@@ -1,4 +1,4 @@
-# sdsd
+# 中国大学mooc
 
 import requests
 from bs4 import BeautifulSoup
